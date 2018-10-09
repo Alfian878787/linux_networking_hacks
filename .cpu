@@ -1,0 +1,1039 @@
+ 1981  nmap -A 172.16.5.227
+ 1982  nmap -A -T 5 172.16.5.227
+ 1983  nmap -A -T5 172.16.5.227
+ 1984  nmap -sP 172.16.5.227 \
+ 1985  nmap -sP 172.16.5.227 
+ 1986  arp -
+ 1987  arp -n
+ 1988  man nmap
+ 1989  nmap -A -T4 google.com
+ 1990  sh
+ 1991  li
+ 1992  parted
+ 1993  ll
+ 1994  vim ~/.bashrc
+ 1995  exit
+ 1996  cd
+ 1997  cp .bashrc /home/umaraju/journeY/
+ 1998  sh
+ 1999  dmidecode -t processor | grep -E '(Core Count|Thread Count)'
+ 2000  perl -ne'
+  $i++ if /^\s*$/;
+  push @{$x[$i]}, [/^(.+?) \s*:\s* (.+)/x] if /core|sibling|physical id/; }{
+  $r= shift @x; 
+  for $i (0..$#$r) {
+    $$r[$i][1] .= " ".$$_[$i][1] for @x;
+    printf "%-15s: %s\n", @{$$r[$i]};
+  }
+' /proc/cpuinfo
+ 2001  cpuinfo
+ 2002  lscpu
+ 2003  history > .cpu
+ 1041  vim packetinjection_eth_ip.c 
+ 1042  gcc packetinjection_eth_ip.c 
+ 1043  ./a.out eth0 172.16.5.227
+ 1044  ifconfig
+ 1045  vim packetinjection_eth_ip.c 
+ 1046  gcc packetinjection_eth_ip.c 
+ 1047  ./a.out eth0 172.16.5.227
+ 1048  ifconfig
+ 1049  ./a.out eth0 172.16.5.227
+ 1050  vim packetinjection_eth_ip.c 
+ 1051  gcc packetinjection_eth_ip.c 
+ 1052  ./a.out eth0 172.16.5.227
+ 1053  vim packetinjection_eth_ip.c 
+ 1054  ./a.out eth0 172.16.5.227
+ 1055  vim packetinjection_eth_ip.c 
+ 1056  ./a.out eth0 172.16.5.227
+ 1057  vim packetinjection_eth_ip.c 
+ 1058  gcc packetinjection_eth_ip.c 
+ 1059  ./a.out 
+ 1060  ./a.out eth0 172.16.5.227
+ 1061  ifconfig
+ 1062  ./a.out eth0 172.16.5.227
+ 1063  man make
+ 1064  man make > file
+ 1065  vim file 
+ 1066  ./a.out eth0 172.16.5.227
+ 1067  vim packetinjection_eth_ip.c 
+ 1068  gcc packetinjection_eth_ip.c 
+ 1069  ./a.out eth0 172.16.5.227
+ 1070  vim packetinjection_eth_ip.c 
+ 1071  gcc packetinjection_eth_ip.c 
+ 1072  ./a.out eth0 172.16.5.227
+ 1073  vim packetinjection_eth_ip.c 
+ 1074  gcc packetinjection_eth_ip.c 
+ 1075  ./a.out eth0 172.16.5.227
+ 1076  ls
+ 1077  lsd
+ 1078  cd ..
+ 1079  ls
+ 1080  spd-say hello
+ 1081  spd-say 
+ 1082  spd-say -I 
+ 1083  spd-say -I hello
+ 1084  spd-say -t child_female
+ 1085  spd-say -t child_female hello
+ 1086  spd-say  hello
+ 1087  spd-say -s hello
+ 1088  notify-send uma
+ 1089  notify-send "uma"
+ 1090  notify-send 
+ 1091  notify-send "hello"
+ 1092  notify send "hello"
+ 1093  notify-send "hello"
+ 1094  sleep 1 ;notify-send "kill"
+ 1095  sudo apt-get install notify-osd
+ 1096  notify-send Test "Hello World"
+ 1097  notify-send Hello World"
+ 1098  notify-send Hello World
+ 1099  notify-send "Hello World"
+ 1100  notify_send
+ 1101  sudo apt-get install notify-osd
+ 1102  sudo apt-get install libnotify-bin
+ 1103  vim server_all_ready.c 
+ 1104  vim client_all_ready.c 
+ 1105  vim server_udp.c 
+ 1106  vim client_udp.c 
+ 1107  vim client_all_ready.c 
+ 1108  client_all_ready.c
+ 1109  ls
+ 1110  d
+ 1111  cd
+ 1112  exit
+ 1113  ./a.out eth0 172.16.5.227
+ 1114  vim packetinjection_eth_ip_tcp.c 
+ 1115  gcc packetinjection_eth_ip_tcp.c 
+ 1116  ./a.out eth0 172.16.5.227
+ 1117  vim packetinjection_eth_ip_tcp.c 
+ 1118  gcc packetinjection_eth_ip_tcp.c 
+ 1119  ./a.out eth0 172.16.5.227
+ 1120  vim packetinjection_eth_ip_tcp.c 
+ 1121  gcc packetinjection_eth_ip_tcp.c 
+ 1122  ./a.out eth0 172.16.5.227
+ 1123  vim packetinjection_eth_ip_tcp.c 
+ 1124  gcc packetinjection_eth_ip_tcp.c 
+ 1125  ./a.out eth0 172.16.5.227
+ 1126  vim packetinjection_eth_ip_tcp.c 
+ 1127  ifconfig
+ 1128  vim packetinjection_eth_ip_tcp.c 
+ 1129  gcc packetinjection_eth_ip_tcp.c 
+ 1130  ./a.out eth0 172.16.5.227
+ 1131  ./a.out eth0 localhost
+ 1132  ./a.out eth0 0.0.0.0
+ 1133  vim packetinjection_eth_ip_tcp.c 
+ 1134  gcc packetinjection_eth_ip_tcp.c 
+ 1135  ./a.out eth0 0.0.0.0
+ 1136  vim packetinjection_eth_ip_tcp.c 
+ 1137  gcc packetinjection_eth_ip_tcp.c 
+ 1138  ./a.out eth0 0.0.0.0
+ 1139  vim packetinjection_eth_ip_tcp.c 
+ 1140  gcc packetinjection_eth_ip_tcp.c 
+ 1141  ./a.out eth0 0.0.0.0
+ 1142  ./a.out eth0 0
+ 1143  ./a.out eth0 127.16.5.151
+ 1144  ./a.out eth0 1
+ 1145  gcc packetinjection_eth_ip_tcp.c 
+ 1146  vim packetinjection_eth_ip_tcp.c 
+ 1147  gcc packetinjection_eth_ip_tcp.c 
+ 1148  ./a.out eth0 1
+ 1149  ./a.out eth0 
+ 1150  ./a.out eth0 w
+ 1151  vim packetinjection_eth_ip_tcp.c 
+ 1152  ls
+ 1153  vim basic_sniffer.c 
+ 1154  gcc basic_
+ 1155  gcc basic_sniffer.c 
+ 1156  ./a.out 
+ 1157  ./a.out eth0
+ 1158  ./a.out eth0 2
+ 1159  vim basic_sniffer.c 
+ 1160  gcc basic_sniffer.c 
+ 1161  ./a.out eth0 2
+ 1162  vim basic_sniffer.c 
+ 1163  gcc sniffer_eth.c 
+ 1164  vim sniffer_eth.c 
+ 1165  vim basic_sniffer.c 
+ 1166  cpp basic_sniffer.c 
+ 1167  cpp basic_sniffer.c > cpp
+ 1168  vim cpp
+ 1169  gcc -x c cpp
+ 1170  ./a.out 
+ 1171  ./a.out eth0 2\
+ 1172  ./a.out eth0 1
+ 1173  ls
+ 1174  dig google.com
+ 1175  ls
+ 1176  ./a.out 
+ 1177  tcpdump 
+ 1178  ls
+ 1179  cd ..
+ 1180  ls
+ 1181  tcpdump -i eth0 -s0 -vvv -XX "arp"
+ 1182  arp -a
+ 1183  tcpdump -i eth0 -s0 -vvv -XX "arp"
+ 1184  arp
+ 1185  tcpdump -i eth0 -s0 -vvv -XX "icmp"
+ 1186  ethereal
+ 1187  exit
+ 1188  dig 172.16.5.227
+ 1189  exit
+ 1190  tcpdump -i eth0
+ 1191  tcpdump
+ 1192  man ether_aton
+ 1193  cd /home/umaraju/journeY/network_ing/illegal_network/
+ 1194  gcc sniffer_eth.c 
+ 1195  ./a.out 
+ 1196  ./a.out eth0
+ 1197  vim sniffer_eth.c 
+ 1198  gcc sniffer_eth.c 
+ 1199  ./a.out eth0 4
+ 1200  gcc sniffer_eth.c 
+ 1201  ./a.out eth0 1000 > file
+ 1202  vim file 
+ 1203  gcc sniffer_eth.c 
+ 1204  ./a.out eth0 100 > file
+ 1205  vim file 
+ 1206  vim start.c
+ 1207  cp basic_injection.c start.c 
+ 1208  vim start.c 
+ 1209  cp packetinjection_eth_ip.c start.c 
+ 1210  vim start.c 
+ 1211  gcc start.c 
+ 1212  vim start.c 
+ 1213  gcc start.c 
+ 1214  vim start.c 
+ 1215  gcc start.c 
+ 1216  ./a.out 
+ 1217  ./a.out eth0 0
+ 1218  vim start.c 
+ 1219  gcc start.c 
+ 1220  ./a.out eth0 0
+ 1221  cd /home/umaraju/journeY/network_ing/i
+ 1222  cd /home/umaraju/journeY/network_ing/illegal_network/
+ 1223  ./a.out eth0 0
+ 1224  vim start.c 
+ 1225  gcc start.c 
+ 1226  ./a.out eth0 0
+ 1227  vim start.c 
+ 1228  ifconfig
+ 1229  vim start.c 
+ 1230  ./a.out eth0 0
+ 1231  vim start.c 
+ 1232  gcc start.c 
+ 1233  ./a.out eth0 0
+ 1234  gcc start.c 
+ 1235  ./a.out eth0 0
+ 1236  vim start.c 
+ 1237  gcc start.c 
+ 1238  ./a.out eth0 0
+ 1239  vim start.c 
+ 1240  gcc start.c 
+ 1241  ./a.out eth0 0
+ 1242  vim start.c 
+ 1243  gcc start.c 
+ 1244  ./a.out eth0 0
+ 1245  ls;ls
+ 1246  ls;ls2
+ 1247  l
+ 1248  vim ~/.bashrc
+ 1249  ls -CF
+ 1250  man ls
+ 1251  lll
+ 1252  ll
+ 1253  l -a
+ 1254  vim start.c 
+ 1255  ls
+ 1256  .;.;.;.;.
+ 1257  .;
+ 1258  .
+ 1259  ls
+ 1260  exit
+ 1261  su
+ 1262  ifconfig eth0 promisc'
+ 1263  ifconfig eth0 promisc
+ 1264  ifconfig 
+ 1265  gcc sniffer_eth_data.c 
+ 1266  ./a.out 
+ 1267  ./a.out eth0 20 > file 
+ 1268  vim file
+ 1269  tcpdump -i eth0 
+ 1270  vim start.c 
+ 1271  ls
+ 1272  l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;l;
+ 1273  ls
+ 1274  sudo -s
+ 1275  tcpdump -i eth0 -s0 -vv -XX "ether src cc:cc:cc:cc:cc:cc"
+ 1276  su
+ 1277  gcc shm_writer.c -lrt -pthread
+ 1278  gcc shm_writer.c -lrt -pthread -w
+ 1279  vim shm_writer.c 
+ 1280  gcc shm_writer.c -lrt -pthread -w
+ 1281  vim shm_writer.c 
+ 1282  gcc shm_writer.c -lrt -pthread -w
+ 1283  ./a.out 
+ 1284  vim shm_writer.c 
+ 1285  apt-get purge gnujump
+ 1286  gnujump
+ 1287  ls
+ 1288  vim /usr/include/linux/ethtool.h 
+ 1289  vim -t ethhdr
+ 1290  cd
+ 1291  exit
+ 1292  ./a.out  1 1 
+ 1293  vim arp_injection.c 
+ 1294  ./a.out  eth0 1 
+ 1295  vim arp_injection.c 
+ 1296  gcc arp_injection.c 
+ 1297  ./a.out eth0 12
+ 1298  vim arp_injection.c 
+ 1299  ifcpnfig
+ 1300  ifconfig
+ 1301  vim arp_injection.c 
+ 1302  gcc arp_injection.c 
+ 1303  ./a.out eth0 12
+ 1304  vim arp_injection.c 
+ 1305  ./a.out eth0 12
+ 1306  vim arp_injection.c 
+ 1307  gcc arp_injection.c 
+ 1308  ./a.out eth0 12
+ 1309  vim arp_injection.c 
+ 1310  ls
+ 1311  vim basic_injection.c 
+ 1312  vim packetinjection_eth_ip.c 
+ 1313  gcc packetinjection_eth_ip.c 
+ 1314  ./a.out 
+ 1315  ./a.out eth0 172.16.5.227
+ 1316  vim packetinjection_eth_ip.c 
+ 1317  gcc packetinjection_eth_ip.c 
+ 1318  ./a.out eth0 172.16.5.227
+ 1319  ./a.out eth0 1
+ 1320  ./a.out eth0 2
+ 1321  ./a.out eth0 3
+ 1322  ./a.out eth0 4
+ 1323  ./a.out eth0 5
+ 1324  vim packetinjection_eth_ip.c 
+ 1325  vim packetinjection_eth_ip_tcp.c 
+ 1326  ls
+ 1327  cd ../../../../../../../\
+ 1328  cd ../../../../../../../
+ 1329  cd ../../../../../../../../../../
+ 1330  ls
+ 1331  vim vmlinuz 
+ 1332  exit
+ 1333  reboot\
+ 1334  ./init
+ 1335  ./init 
+ 1336  ./init 5
+ 1337  init 5
+ 1338  exit
+ 1339  ..
+ 1340  su
+ 1341  exit
+ 1342  whoami
+ 1343  exit
+ 1344  parted
+ 1345  gparted
+ 1346  apt-get install gparted
+ 1347  gparted
+ 1348  ls /dev
+ 1349  cd /dev/char/
+ 1350  ls
+ 1351  ls -lrt
+ 1352  cd ..
+ 1353  ls
+ 1354  cd block/
+ 1355  ls
+ 1356  ls -ltr
+ 1357  ls
+ 1358  vim 8\:0 
+ 1359  cat 8\:0 
+ 1360  ll
+ 1361  ls lrt
+ 1362  ls -lrt
+ 1363  ls -lrit
+ 1364  ls -lrita
+ 1365  vim file.c
+ 1366  cd
+ 1367  ls
+ 1368  exit
+ 1369  ./a.out 
+ 1370  man fstat
+ 1371  vim f*c
+ 1372  gcc f*c
+ 1373  vim f*c
+ 1374  gcc f*c
+ 1375  ./a.out 
+ 1376  vim f*c
+ 1377  \
+ 1378  reboot
+ 1379  mv integer_validation /bin/
+ 1380  exit
+ 1381  make
+ 1382  ls
+ 1383  file *ko
+ 1384  file app
+ 1385  file app.c
+ 1386  cd
+ 1387  cd /dev/
+ 1388  ls
+ 1389  file tty0 
+ 1390  file stderr 
+ 1391  cd /proc/self/fd
+ 1392  ls
+ 1393  file 255
+ 1394  cd /dev/pts/
+ 1395  ls
+ 1396  file 0
+ 1397  vim 0
+ 1398  cd ..
+ 1399  ls
+ 1400  file rtc
+ 1401  file cpu
+ 1402  file log
+ 1403  vim log 
+ 1404  cd /var/log/
+ 1405  ls
+ 1406  file *2.gz
+ 1407  ls
+ 1408  vim dmesg
+ 1409  ifconfig eth0 promisc
+ 1410  gcc sniffer_eth_data.c 
+ 1411  ./a.out 30 
+ 1412  ./a.out eth0 30 > packets 
+ 1413  vim packet
+ 1414  vim packets 
+ 1415  gcc sniffer_eth_data.c 
+ 1416  ./a.out eth0 30 > packets v
+ 1417  vim packets 
+ 1418  gcc sniffer_eth_data.c 
+ 1419  ./a.out eth0 30 > packets 
+ 1420  vim packets 
+ 1421  gcc sniffer_eth_data.c 
+ 1422  ./a.out eth0 30 > packets 
+ 1423  vim packets 
+ 1424  gcc sniffer_eth_data.c 
+ 1425  ./a.out eth0 40 > packets 
+ 1426  vim packets 
+ 1427  rm packet 
+ 1428  rm packets  
+ 1429  vim start.c 
+ 1430  cp sniffer_eth_data.c sniffer_start.c
+ 1431  vim sniffer_start.c 
+ 1432  gcc sniffer_start.c 
+ 1433  vim sniffer_start.c 
+ 1434  gcc sniffer_start.c 
+ 1435  vim sniffer_start.c 
+ 1436  gcc sniffer_start.c 
+ 1437  vim sniffer_start.c 
+ 1438  vim start.c 
+ 1439  vim sniffer_eth_data.c 
+ 1440  vim sniffer_start.c 
+ 1441  gcc sniffer_start.c 
+ 1442  vim sniffer_start.c 
+ 1443  vim sniffer_eth_data.c 
+ 1444  vim sniffer_start.c 
+ 1445  gcc sniffer_start.c 
+ 1446  ./a.out 
+ 1447  ./a.out eth0 2
+ 1448  vim packetinjection_eth_ip.c 
+ 1449  vim start.c 
+ 1450  scp sniffer_start.c 
+ 1451  scp sniffer_start.c ganga@172.16.5.227:./
+ 1452  gcc start.c 
+ 1453  vim start.c 
+ 1454  gcc start.c 
+ 1455  gcc start.c -w
+ 1456  ./a.out 
+ 1457  vim start.c 
+ 1458  gcc start.c -w
+ 1459  ./a.out eth
+ 1460  ./a.out eth0 12
+ 1461  vim start.c 
+ 1462  gcc start.c -w
+ 1463  ./a.out eth0 12
+ 1464  ./a.out eth0 12 > kill
+ 1465  vim kill 
+ 1466  vim start.c 
+ 1467  gcc start.c -w
+ 1468  ./a.out eth0 12 > kill
+ 1469  vim kill 
+ 1470  vim start.c 
+ 1471  ./a.out eth0 12 > kill
+ 1472  gcc start.c -w
+ 1473  ./a.out eth0 12 
+ 1474  vim start.c 
+ 1475  gcc start.c -w
+ 1476  ./a.out eth0 12 
+ 1477  vim start.c 
+ 1478  gcc start.c -w
+ 1479  ./a.out eth0 12 
+ 1480  vim start.c  
+ 1481  ./a.out eth0 12 
+ 1482  gcc start.c -w
+ 1483  ./a.out eth0 12 
+ 1484  ./a.out eth0 1
+ 1485  vim start.c r
+ 1486  vim start.c 
+ 1487  gcc start.c -w
+ 1488  ./a.out eth0 12 
+ 1489  vim start.c 
+ 1490  man itoa
+ 1491  vim /usr/include/linux/ge
+ 1492  vim /usr/include/linux/gep.h 
+ 1493  vim start.c 
+ 1494  cd
+ 1495  ls
+ 1496  exit
+ 1497  ./a.out eth0 12
+ 1498  vim arp_injection.c 
+ 1499  gcc arp_injection.c 
+ 1500  ./a.out 
+ 1501  ./a.out eth0 12
+ 1502  gcc arp_injection.c 
+ 1503  ./a.out eth0 12
+ 1504  vim arp_injection.c 
+ 1505  gcc arp_injection.c 
+ 1506  ./a.out eth0 12
+ 1507  gcc packetinjection_eth_ip_tcp.c 
+ 1508  ./a.out 
+ 1509  ./a.out eth0 172.16.5.151
+ 1510  vim packetinjection_eth_ip_tcp.c 
+ 1511  gcc packetinjection_eth_ip_tcp.c 
+ 1512  ./a.out eth0 172.16.5.151
+ 1513  vim header.h 
+ 1514  vim /usr/include/linux/gep.h 
+ 1515  cd ../../umasraZ/rough/
+ 1516  ls
+ 1517  cd files/
+ 1518  ls\
+ 1519  ls
+ 1520  cd ..
+ 1521  man fscanf
+ 1522  vim fscanf.c
+ 1523  gcc fscanf
+ 1524  vim fscanf.c
+ 1525  gcc fscanf.c 
+ 1526  vim fscanf.c
+ 1527  gcc fscanf.c 
+ 1528  vim fscanf.c
+ 1529  gcc fscanf.c 
+ 1530  ./a.out 
+ 1531  vim fscanf.c
+ 1532  gcc fscanf.c 
+ 1533  ./a.out 
+ 1534  vim fscanf.c
+ 1535  gcc fscanf.c 
+ 1536  ./a.out 
+ 1537  vim fscanf.c
+ 1538  gcc fscanf.c 
+ 1539  ./a.out 
+ 1540  vim fscanf.c
+ 1541  gcc fscanf.c 
+ 1542  ./a.out 
+ 1543  vim fscanf.c
+ 1544  gcc fscanf.c 
+ 1545  ./a.out 
+ 1546  vim fscanf.c
+ 1547  gcc fscanf.c 
+ 1548  ./a.out 
+ 1549  vim fscanf.c
+ 1550  cd
+ 1551  exit
+ 1552  gcc arp_injection.c 
+ 1553  ./a.out eth0 
+ 1554  vim dmesg
+ 1555  vim arp_injection.c 
+ 1556  gcc arp_injection.c 
+ 1557  ./a.out eth0 127.16.5.227
+ 1558  vim arp_injection.c 
+ 1559  gcc arp_injection.c 
+ 1560  ./a.out eth0 127.16.5.227
+ 1561  ./a.out eth0 127.16.5.22
+ 1562  vim arp_injection.c 
+ 1563  gcc arp_injection.c 
+ 1564  ./a.out eth0 127.16.5.22
+ 1565  vim arp_injection.c 
+ 1566  arp -n
+ 1567  vim arp_injection.c 
+ 1568  gcc arp_injection.c 
+ 1569  ./a.out eth0 127.16.5.22
+ 1570  vim arp_injection.c 
+ 1571  gcc arp_injection.c 
+ 1572  ./a.out eth0 127.16.5.22
+ 1573  vim arp_injection.c 
+ 1574  gcc arp_injection.c 
+ 1575  vim arp_injection.c +186
+ 1576  gcc arp_injection.c 
+ 1577  vim arp_injection.c +186
+ 1578  gcc arp_injection.c 
+ 1579  ./a.out eth0 127.16.5.22
+ 1580  vim arp_injection.c +186
+ 1581  gcc arp_injection.c 
+ 1582  ./a.out eth0 12
+ 1583  ping 172.16.5.238
+ 1584  arp -n
+ 1585  vim arp_injection.c +186
+ 1586  gcc arp_injection.c 
+ 1587  ./a.out eth0 12
+ 1588  vim arp_injection.c +186
+ 1589  mv .arp_injection.c.swp .back_up_arp_inj.c
+ 1590  vim arp_injection.c 
+ 1591  gcc arp_injection.c 
+ 1592  ./a.out eth0 12
+ 1593  vim arp_injection.c 
+ 1594  gcc arp_injection.c 
+ 1595  ./a.out eth0 12
+ 1596  vim arp_injection.c 
+ 1597  gcc arp_injection.c 
+ 1598  ./a.out eth0 12
+ 1599  vim arp_injection.c 
+ 1600  gcc arp_injection.c 
+ 1601  ./a.out eth0 12
+ 1602  vim arp_injection.c 
+ 1603  vim header.h 
+ 1604  vim arp_injection.c 
+ 1605  gcc arp_injection.c 
+ 1606  ./a.out 
+ 1607  vim arp_injection.c 
+ 1608  gcc arp_injection.c 
+ 1609  ./a.out 
+ 1610  vim arp_injection.c 
+ 1611  la
+ 1612  vim tags 
+ 1613  vim arp_injection.c 
+ 1614  la
+ 1615  vim cpp
+ 1616  ls
+ 1617  man 7 packet
+ 1618  man 7 netdevice
+ 1619  vim sniffer_start.c 
+ 1620  vim start.c 
+ 1621  gcc start.c 
+ 1622  ./a.out eth0 12
+ 1623  ioiii
+ 1624  ./a.out eth0 12
+ 1625  ls
+ 1626  vim file 
+ 1627  vim start.c 
+ 1628  ./a.out eth0 12
+ 1629  vim start.c 
+ 1630  ./a.out eth0 12
+ 1631  gcc start.c 
+ 1632  vim start.c 
+ 1633  gcc start.c 
+ 1634  ./a.out eth0 12
+ 1635  qw
+ 1636  ./a.out eth0 12
+ 1637  vim start.c 
+ 1638  gcc start.c 
+ 1639  ./a.out eth0 12
+ 1640  vim start.c 
+ 1641  gcc start.c 
+ 1642  ./a.out eth0 12
+ 1643  vim start.c 
+ 1644  gcc start.c 
+ 1645  ./a.out eth0 12
+ 1646  vim start.c 
+ 1647  gcc start.c 
+ 1648  ./a.out eth0 12
+ 1649  vim start.c 
+ 1650  gcc start.c 
+ 1651  ./a.out eth0 12
+ 1652  vim start.c 
+ 1653  gcc start.c 
+ 1654  ./a.out eth0 12
+ 1655  vim start.c 
+ 1656  gcc start.c 
+ 1657  ./a.out eth0 12
+ 1658  ikiki\
+ 1659  ./a.out eth0 12
+ 1660  vim start.c 
+ 1661  gcc start.c 
+ 1662  ./a.out eth0 dabba
+ 1663  vim start.c 
+ 1664  gcc start.c 
+ 1665  vim start.c 
+ 1666  gcc start.c 
+ 1667  vim start.c 
+ 1668  gcc start.c 
+ 1669  vim start.c 
+ 1670  gcc start.c 
+ 1671  ./a.out eth0 qw
+ 1672  vim start.c 
+ 1673  gcc start.c 
+ 1674  ./a.out eth0 qw
+ 1675  vim start.c 
+ 1676  gcc start.c 
+ 1677  ./a.out eth0 qw
+ 1678  vim start.c 
+ 1679  gcc start.c 
+ 1680  ./a.out eth0 qw
+ 1681  vim start.c 
+ 1682  gcc start.c 
+ 1683  vim start.c +166
+ 1684  gcc start.c 
+ 1685  ./a.out eth0 qw
+ 1686  vim start.c +166
+ 1687  gcc start.c 
+ 1688  ./a.out eth0 qw
+ 1689  vim start.c +166
+ 1690  gcc start.c 
+ 1691  ./a.out eth0 qw
+ 1692  vim start.c +166
+ 1693  cp start.c .bachup_start.c
+ 1694  vim start.c 
+ 1695  gcc start.c 
+ 1696  vim start.c +166
+ 1697  gcc start.c 
+ 1698  vim start.c +166
+ 1699  gcc start.c 
+ 1700  vim start.c +166
+ 1701  gcc start.c 
+ 1702  ./a.out eth0 qw
+ 1703  vim start.c +166
+ 1704  gcc start.c 
+ 1705  ./a.out eth0 qw
+ 1706  ./a.out eth0 qw 
+ 1707  vim start.c +166
+ 1708  gcc start.c 
+ 1709  ./a.out eth0 qw 
+ 1710  vim start.c +166
+ 1711  gcc start.c 
+ 1712  ./a.out eth0 qw 
+ 1713  vim start.c +166
+ 1714  gcc start.c 
+ 1715  ./a.out eth0 qw 
+ 1716  vim start.c +166
+ 1717  la
+ 1718  vim file 
+ 1719  vim start.c +166
+ 1720  gcc start.c 
+ 1721  ./a.out eth0 qw 
+ 1722  vim header.h 
+ 1723  vim start.c +166
+ 1724  gcc start.c 
+ 1725  ./a.out eth0 qw 
+ 1726  vim start.c +166
+ 1727  gcc start.c 
+ 1728  ./a.out eth0 qw 
+ 1729  gcc start.c 
+ 1730  vim start.c +166
+ 1731  gcc start.c 
+ 1732  ./a.out eth0 header.h
+ 1733  vim start.c +16
+ 1734  gcc start.c 
+ 1735  ./a.out eth0 header.h
+ 1736  vim header.h 
+ 1737  gcc start.c 
+ 1738  ./a.out eth0 header.h
+ 1739  vim header.h 
+ 1740  gcc start.c 
+ 1741  vim start.c 
+ 1742  gcc start.c 
+ 1743  ./a.out eth0 header.h
+ 1744  vim start.c 
+ 1745  gcc start.c 
+ 1746  ./a.out eth0 header.h
+ 1747  vim start.c 
+ 1748  gcc start.c 
+ 1749  ./a.out eth0 header.h
+ 1750  cp start.c .backup_start2.c
+ 1751  vim start.c 
+ 1752  ls -lrt
+ 1753  ls
+ 1754  vim file_size.c 
+ 1755  gcc file_size.c 
+ 1756  ./a.out 
+ 1757  vim start.c 
+ 1758  ./a.out 
+ 1759  vim start.c 
+ 1760  ./a.out 
+ 1761  vim start.c 
+ 1762  gcc start.c 
+ 1763  ./a.out 
+ 1764  ./a.out eth0 start.c 
+ 1765  vim start.c 
+ 1766  gcc start.c 
+ 1767  ./a.out eth0 start.c 
+ 1768  vim start.c 
+ 1769  ./a.out eth0 start.c 
+ 1770  gcc start.c 
+ 1771  ./a.out eth0 start.c 
+ 1772  vim start.c 
+ 1773  gcc start.c 
+ 1774  ./a.out eth0 start.c 
+ 1775  vim start.c \
+ 1776  vim start.c 
+ 1777  ./a.out eth0 start.c 
+ 1778  gcc start.c 
+ 1779  ./a.out eth0 start.c 
+ 1780  vim start.c 
+ 1781  gcc start.c 
+ 1782  ./a.out eth0 start.c 
+ 1783  vim start.c 
+ 1784  gcc start.c 
+ 1785  ./a.out eth0 start.c 
+ 1786  vim start.c 
+ 1787  gcc start.c 
+ 1788  ./a.out eth0 start.c 
+ 1789  gcc start.c 
+ 1790  ./a.out eth0 start.c 
+ 1791  vim start.c 
+ 1792  gcc start.c 
+ 1793  ./a.out eth0 start.c 
+ 1794  vim start.c 
+ 1795  ./a.out eth0 start.c 
+ 1796  vim start.c 
+ 1797  gcc start.c 
+ 1798  ./a.out eth0 start.c 
+ 1799  vim start.c 
+ 1800  gcc start.c 
+ 1801  ./a.out eth0 start.c 
+ 1802  vim start.c 
+ 1803  gcc start.c 
+ 1804  ./a.out eth0 start.c 
+ 1805  vim start.c 
+ 1806  gcc start.c 
+ 1807  ./a.out eth0 start.c 
+ 1808  vim start.c 
+ 1809  gcc start.c 
+ 1810  ./a.out eth0 start.c 
+ 1811  vim start.c 
+ 1812  gcc start.c 
+ 1813  ./a.out eth0 start.c 
+ 1814  vim start.c 
+ 1815  gcc start.c 
+ 1816  ./a.out eth0 start.c 
+ 1817  vim start.c 
+ 1818  vim header.h 
+ 1819  ./a.out eth0 header.h 
+ 1820  vim start.c 
+ 1821  gcc start.c 
+ 1822  ./a.out eth0 header.h 
+ 1823  vim start.c 
+ 1824  gcc start.c 
+ 1825  ./a.out eth0 header.h 
+ 1826  vim start.c 
+ 1827  gcc start.c 
+ 1828  ./a.out eth0 header.h 
+ 1829  vim start.c 
+ 1830  gcc start.c 
+ 1831  ./a.out eth0 header.h 
+ 1832  vim start.c 
+ 1833  gcc start.c 
+ 1834  ./a.out eth0 header.h 
+ 1835  vim start.c 
+ 1836  gcc start.c 
+ 1837  ./a.out eth0 header.h 
+ 1838  gcc start.c 
+ 1839  ./a.out eth0 header.h 
+ 1840  vim start.c 
+ 1841  gcc start.c 
+ 1842  ./a.out eth0 header.h 
+ 1843  vim start.c 
+ 1844  gcc start.c 
+ 1845  ./a.out eth0 header.h 
+ 1846  gcc start.c 
+ 1847  ./a.out eth0 header.h 
+ 1848  vim start.c 
+ 1849  gcc start.c 
+ 1850  ./a.out eth0 header.h 
+ 1851  vim start.c 
+ 1852  gcc start.c 
+ 1853  ./a.out eth0 header.h 
+ 1854  vim start.c 
+ 1855  gcc start.c 
+ 1856  ./a.out eth0 header.h 
+ 1857  d
+ 1858  vim start.c 
+ 1859  ./a.out eth0 header.h 
+ 1860  gcc start.c 
+ 1861  vim start.c 
+ 1862  gcc start.c 
+ 1863  ./a.out eth0 header.h 
+ 1864  man printf > pr
+ 1865  ./a.out eth0 pr
+ 1866  vim start.c 
+ 1867  man printf > pr
+ 1868  ./a.out eth0 pr
+ 1869  gcc start.c 
+ 1870  ./a.out eth0 pr
+ 1871  vim pr
+ 1872  man 7 print
+ 1873  man 7 printf
+ 1874  man 2 printf
+ 1875  man fgets
+ 1876  man printf >> pr
+ 1877  vim pr
+ 1878  rm pr
+ 1879  ls
+ 1880  vim tags 
+ 1881  man fprintf >> pr
+ 1882  gcc start.c 
+ 1883  ./a.out eth0 pr
+ 1884  vim start.c 
+ 1885  gcc start.c 
+ 1886  ./a.out eth0 pr
+ 1887  vim start.c 
+ 1888  vim f_b.c
+ 1889  gcc f_b.c 
+ 1890  vim f_b.c
+ 1891  gcc f_b.c 
+ 1892  vim f_b.c
+ 1893  gcc f_b.c 
+ 1894  vim f_b.c
+ 1895  gcc f_b.c 
+ 1896  ./a.out 
+ 1897  vim f_b.c
+ 1898  gcc f_b.c 
+ 1899  ./a.out 
+ 1900  ls -lrt
+ 1901  vim f_b.c
+ 1902  gcc f_b.c 
+ 1903  vim f_b.c
+ 1904  gcc f_b.c 
+ 1905  vim f_b.c
+ 1906  gcc f_b.c 
+ 1907  ./a.out 
+ 1908  vim killer 
+ 1909  vim f_b.c
+ 1910  gcc f_b.c 
+ 1911  ./a.out 
+ 1912  vim killer 
+ 1913  ls -lrt
+ 1914  vim pr
+ 1915  vim killer 
+ 1916  vim f_b.c 
+ 1917  rm killer 
+ 1918  ./a.out 
+ 1919  ls -lrt
+ 1920  vim f_b.c 
+ 1921  ./a.out 
+ 1922  gcc f_b.c 
+ 1923  rm killer
+ 1924  ./a.out 
+ 1925  ls -lrt
+ 1926  vim killer 
+ 1927  ls
+ 1928  l:l
+ 1929  ls
+ 1930  possible_palindromes 
+ 1931  .
+ 1932  ..\
+ 1933  LS
+ 1934  ls
+ 1935  rm \\
+ 1936  rm a.out data 
+ 1937  ls
+ 1938  cd ..
+ 1939  ls
+ 1940  rm a.out cl \\
+ 1941  ls
+ 1942  vim a.eps 
+ 1943  rm a.eps 
+ 1944  rm 1
+ 1945  rm 2q
+ 1946  ls
+ 1947  rm sv\
+ 1948  rm sv
+ 1949  ls
+ 1950  ;
+ 1951  s;s;s
+ 1952  man fork
+ 1953  ll
+ 1954  rm killed
+ 1955  rm killer 
+ 1956  man umask
+ 1957  umask
+ 1958  exit
+ 1959  ls -i
+ 1960  ls -ai
+ 1961  ls z
+ 1962  clear
+ 1963  vim arp_injection.c 
+ 1964  ls
+ 1965  vim  arp_injection.c 
+ 1966  gcc arp_injection.c 
+ 1967  ./a.out 
+ 1968  ./a.out eth0 
+ 1969  ./a.out eth0 12
+ 1970  vim  arp_injection.c 
+ 1971  gcc arp_injection.c 
+ 1972  ./a.out eth0 12
+ 1973  vim  arp_injection.c 
+ 1974  ls
+ 1975  vim kill 
+ 1976  rm kill
+ 1977  ls
+ 1978  rm cpp
+ 1979  vim file
+ 1980  rm file
+ 1981  nmap -A 172.16.5.227
+ 1982  nmap -A -T 5 172.16.5.227
+ 1983  nmap -A -T5 172.16.5.227
+ 1984  nmap -sP 172.16.5.227 \
+ 1985  nmap -sP 172.16.5.227 
+ 1986  arp -
+ 1987  arp -n
+ 1988  man nmap
+ 1989  nmap -A -T4 google.com
+ 1990  sh
+ 1991  li
+ 1992  parted
+ 1993  ll
+ 1994  vim ~/.bashrc
+ 1995  exit
+ 1996  cd
+ 1997  cp .bashrc /home/umaraju/journeY/
+ 1998  sh
+ 1999  dmidecode -t processor | grep -E '(Core Count|Thread Count)'
+ 2000  perl -ne'
+  $i++ if /^\s*$/;
+  push @{$x[$i]}, [/^(.+?) \s*:\s* (.+)/x] if /core|sibling|physical id/; }{
+  $r= shift @x; 
+  for $i (0..$#$r) {
+    $$r[$i][1] .= " ".$$_[$i][1] for @x;
+    printf "%-15s: %s\n", @{$$r[$i]};
+  }
+' /proc/cpuinfo
+ 2001  cpuinfo
+ 2002  lscpu
+ 2003  history > .cpu
+ 2004  ls
+ 2005  vim .cpu 
+ 2006  apt-get install linux-tools-common
+ 2007  perf stat -e dTLB-load-misses,iTLB-load-misses /path/to/command
+ 2008  linux-tools-4.5.0-4.5.0
+ 2009  apt-get install linux-tools-4.5.0-4.5.0
+ 2010  apt-get install linux-cloud-tools-4.5.0-4.5.0
+ 2011  apt-get install linux-cloud-tools-4.5.0-lts-14.04
+ 2012  linux-tools-4.5.0-4.5.0perf stat -e dTLB-load-misses,iTLB-load-misses /bin/ls > /dev/null
+ 2013  perf stat -e dTLB-load-misses,iTLB-load-misses /bin/ls > /dev/null
+ 2014  perf list | grep -i tlb
+ 2015  apt-get install perf
+ 2016  86info
+ 2017  x86info
+ 2018  apt-get install x86info
+ 2019  x86info
+ 2020  x86info -c
+ 2021  x86info -f
+ 2022  x86info -mp
+ 2023  x86info -r
+ 2024  x86info -a
+ 2025  /sys/devices/system/cpu
+ 2026  cat /sys/devices/system/cpu
+ 2027  cd /sys/devices/system/cpu
+ 2028  ls
+ 2029  cd cpu0/
+ 2030  ls
+ 2031  cd cache/
+ 2032  ls
+ 2033  cd index0/
+ 2034  ls
+ 2035  vim level 
+ 2036  vim size 
+ 2037  cd power/
+ 2038  ls
+ 2039  dmesg
+ 2040  history >> /home/umaraju/journeY/network_ing/illegal_network/.cpu 

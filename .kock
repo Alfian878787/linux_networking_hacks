@@ -1,0 +1,500 @@
+   10  vim maps.c 
+   11  vim app.c 
+   12  vim maps.c 
+   13  cd journeY/network_ing/illegal_network/
+   14  ls
+   15  vim sniffer_eth.c 
+   16  gcc sniffer_eth.c 
+   17  su
+   18  exit
+   19  cd journeY/network_ing/illegal_network/
+   20  scp sniffer_eth_data.c govardhan@172.16.5.245:./
+   21  cd journeY/network_ing/
+   22  vim structures.c 
+   23  vim socket.c 
+   24  ssh sriharsha@172.16.5.240
+   25  evince SRS_Document_Chat_Application.pdf 
+   26  ls
+   27  cd journeY/
+   28  LS
+   29  ls
+   30  cd kernel/
+   31  ls
+   32  cd ..
+   33  cd umasraZ/
+   34  ls
+   35  cd ..
+   36  cd task_ment/
+   37  ls
+   38  vim she.c 
+   39  vim shelled.c 
+   40  gcc shelled.c 
+   41  ./a.out 
+   42  vim shelled.c 
+   43  ./a.out 
+   44  vim shelled.c 
+   45  gcc shelled.c 
+   46  ./a.out 
+   47  vim shelled.c 
+   48  man exec
+   49  vim exec_family.c 
+   50  gcc exec_family.c 
+   51  ./a.out 
+   52  ./a.out ls
+   53  vim exec_family.c 
+   54  gcc exec_family.c 
+   55  ./a.out ls
+   56  vim exec_family.c 
+   57  man exec
+   58  vim exec_family.c 
+   59  ls
+   60  gcc exec_family.
+   61  gcc exec_family.c 
+   62  ./a.out 
+   63  ./a.out ls
+   64  vim exec_family.c 
+   65  gcc exec_family.c 
+   66  ./a.out 
+   67  ./a.out ls
+   68  vim exec_family.c 
+   69  gcc exec_family.c 
+   70  ./a.out ls
+   71  ls
+   72  ./a.out 
+   73  vim exec_family.c 
+   74  man exec
+   75  vim exec_family.c 
+   76  gcc exec_family.
+   77  gcc exec_family.c
+   78  ./a.out 
+   79  vim exec_family.c 
+   80  gcc exec_family.c
+   81  ./a.out ls
+   82  ./a.out ls -i -
+   83  vim exec_family.c 
+   84  gcc exec_family.c
+   85  ./a.out 
+   86  vim exec_family.c 
+   87  gcc exec_family.c
+   88  .
+   89  vim exec_family.c 
+   90  vim shelled.c 
+   91  gcc shelled.c 
+   92  ./a.out 
+   93  vim shelled.c 
+   94  ./a.out 
+   95  gcc shelled.c ls\
+   96  ls
+   97  vim thtree.c 
+   98  gcc thtree.c -pthread
+   99  ./a.out 
+  100  vim thtree.c 
+  101  gcc thtree.c -pthread
+  102  ./a.out 
+  103  vim thtree.c 
+  104  gcc thtree.c -pthread
+  105  ./a.out 
+  106  ls
+  107  l;s
+  108  ls
+  109  l
+  110  error
+  111  vimm baby_die.c 
+  112  vim baby_die.c 
+  113  gcc baby_die.c 
+  114  vim baby_die.c 
+  115  gcc baby_die.c 
+  116  .
+  117  vim baby_die.c 
+  118  cd ..
+  119  cd new_start/
+  120  vim test.c 
+  121  gcc test.c 
+  122  vim test.c 
+  123  gcc test.c 
+  124  vim test.c 
+  125  gcc test.c 
+  126  .
+  127  ls
+  128  vim free_zero.c 
+  129  cd ../umasraZ/rough/malloc_d/
+  130  ls
+  131  locate free_no_malloc.c
+  132  cd ../../../overflow/
+  133  vim free_no_malloc.c 
+  134  gcc free_no_malloc.c 
+  135  ./a.out 
+  136  vim free_no_malloc.c 
+  137  gcc free_no_malloc.c 
+  138  ./a.out 
+  139  vim free_no_malloc.c 
+  140  gcc free_no_malloc.c 
+  141  ./a.out 
+  142  vim free_no_malloc.c 
+  143  gcc free_no_malloc.c 
+  144  objdump -s -j.rodata
+  145  vim free_no_malloc.c 
+  146  gcc free_no_malloc.c 
+  147  ./a.out 
+  148  vim free_no_malloc.c 
+  149  gcc free_no_malloc.c 
+  150  ./a.out 
+  151  vim free_no_malloc.c 
+  152  cd
+  153  cd journeY/
+  154  vim test.c
+  155  cd task_ment/
+  156  vim test.c
+  157  gcc test.c 
+  158  ./a.out 
+  159  vim test.c
+  160  :q
+  161  ifconfig
+  162  cd ../
+  163  cd network_ing/illegal_network/
+  164  ls
+  165  vim packetinjection_eth_ip_tcp.c 
+  166  su
+  167  scp /home/umaraju/.bashrc ganesh@172.16.5.181:./
+  168  exit
+  169  cd journeY/
+  170  locate err_no.c
+  171  cd task_ment/
+  172  vim err_no.c 
+  173  ls
+  174  vim errno.c 
+  175  gcc errno.c 
+  176  ./a.out  
+  177  vim err_no.c 
+  178  vim errno.c 
+  179  vim err_no.c 
+  180  exit
+  181  cd journeY/task_ment/
+  182  ls
+  183  vim sm.c \
+  184  vim sm.c 
+  185  cd ..
+  186  cd pipe_ing/
+  187  ls
+  188  vim shared_sem.c 
+  189  vim shm_writer.c 
+  190  su
+  191  cd
+  192  cd /usr/src/linux-4.5/
+  193  vim -t IPPROTO_TCp
+  194  vim -t IPPROTO_TCP
+  195  cd journeY/network_ing/illegal_network/
+  196  ls
+  197  gcc arp_injection.c 
+  198  ifconfig
+  199  ./a.out 
+  200  ./a.out  1 1
+  201  su
+  202  ls
+  203  vim start.c 
+  204  cd /usr/src/
+  205  ls
+  206  cd linux-4.5/
+  207  ls
+  208  cd  Documentation/
+  209  ls
+  210  ls
+  211  vim adding-syscalls.txt 
+  212  vim IRQ.txt 
+  213  vim init.txt 
+  214  vim Intel-IOMMU.txt 
+  215  cd ioctl/
+  216  ls
+  217  cd ..
+  218  cd watchdog/
+  219  ls
+  220  cd cry
+  221  CD ..
+  222  cd ..
+  223  cd crypto/
+  224  ls
+  225  vim api-intro.txt 
+  226  cd ..
+  227  vim circular-buffers.txt 
+  228  cd /boot/grub/
+  229  ls
+  230  vim gfxblacklist.txt 
+  231  vim grub.cfg 
+  232  cd ..
+  233  ls
+  234  su
+  235  cd journeY/task_ment/
+  236  vim e*ly.c
+  237  cd /etc/
+  238  ls
+  239  vim rc1.d/
+  240  cd rc2.d/
+  241  ls
+  242  vim README 
+  243  ls -i
+  244  ls -ltr
+  245  ls -i ../init.d/rc.local 
+  246  cd ..
+  247  ld
+  248  ls
+  249  cd ..
+  250  cd /sbin/
+  251  ls
+  252  vim init
+  253  vim unix_chkpwd 
+  254  ./unix_chkpwd 
+  255  ./init
+  256  su
+  257  whoami
+  258  ls
+  259  whoami
+  260  su 
+  261  whoami
+  262  su
+  263  lsmod
+  264  passwd
+  265  cd
+  266  passwd
+  267  fdisk
+  268  fdisk -C 12
+  269  fdisk -v
+  270  fdisk -H 123
+  271  fsisk
+  272  sudo apt-get install util-linux
+  273  fdisk
+  274  fdisc
+  275  cd journeY/network_ing/illegal_network/
+  276  vim arp_injection.c 
+  277  sudo -s
+  278  cfdisk
+  279  cfdisk'
+  280  cfdisk
+  281  parted
+  282  su
+  283  ls
+  284  vim file.c 
+  285  :wq
+  286  man fstst
+  287  man fstat
+  288  vim file.c 
+  289  gcc file
+  290  gcc file.c 
+  291  man fstat
+  292  vim file.c 
+  293  wq
+  294  gcc file.c 
+  295  ./a.out 
+  296  su
+  297  df
+  298  df -u
+  299  du
+  300  ls
+  301  rm a.out 
+  302  vim str.c 
+  303  rm str.c 
+  304  rm _mq~ 
+  305  rm file
+  306  la
+  307  ls
+  308  rm RFC-all.tar.gz 
+  309  vim server.c 
+  310  ls
+  311  cd ..
+  312  cd.....
+  313  cd ..
+  314  cd 
+  315  cd ..
+  316  cd
+  317  cd journeY/
+  318  ls
+  319  cd new_start/
+  320  ls
+  321  possible_palindromes 
+  322  producer_consumer 
+  323  vim test.c 
+  324  gcc test.c -o integer_validation
+  325  su
+  326  integer_validation 
+  327  cd journeY/maps/
+  328  ls
+  329  su
+  330  xcd
+  331  cd /usr/src/linux-4.5/
+  332  vim -t ARPOP_REPLY
+  333  vim -t sockaddr_ll
+  334  ls
+  335  cd journeY/task_ment/
+  336  ls
+  337  vim shelled.c 
+  338  mv shelled.c shell_emulation.c
+  339  vim shell_emulation.c 
+  340  gcc shell_emulation.c 
+  341  gcc shell_emulation.c -w
+  342  ./a.out 
+  343  vim shell_emulation.c 
+  344  ls
+  345  vim /usr/include/linux/ip.h
+  346  vim /usr/include/linux/tcp.h 
+  347  vim /usr/include/linux/
+  348  cd
+  349  cd journeY/network_ing/illegal_network/
+  350  su
+  351  cd
+  352  ls
+  353  vim file.c 
+  354  cd journeY/
+  355  cd task_ment/
+  356  ls
+  357  vim file_partition.c 
+  358  gcc file_partition.c -lrt -pthread
+  359  gcc file_partition.c -lrt -pthread -w
+  360  ./a.out 
+  361  ./a.out head.h 
+  362  vim head.h 
+  363  vim file_partition.c 
+  364  ./a.out head.h 
+  365  gcc file_partition.c -lrt -pthread -w
+  366  ./a.out head.h 
+  367  vin new_file.txt 
+  368  vim new_file.txt 
+  369  las
+  370  ls
+  371  vim _file.c 
+  372  gcc _file.c -lrt -pthread
+  373  gcc _file.c -lrt -pthread -w
+  374  ./a.out head.h 
+  375  :wq
+  376  mv file_partition.c .file_part_bug.c
+  377  mv _file.c file_segmentation.c
+  378  ls
+  379  vim file_s
+  380  vim file_size.c 
+  381  vim file_segmentation.c 
+  382  gcc file_segmentation.c 
+  383  gcc file_segmentation.c -lrt -pthread
+  384  ./a.out head.h 
+  385  vim file_segmentation.c 
+  386  gcc file_segmentation.c -lrt -pthread
+  387  ./a.out head.h 
+  388  vim filetest.c
+  389  vim kill
+  390  vim filetest.c
+  391  gcc filetest.c 
+  392  ./a.out 
+  393  vim filetest.c
+  394  gcc filetest.c 
+  395  ./a.out 
+  396  vim filetest.c
+  397  vim kill
+  398  gcc filetest.c 
+  399  ./a.out 
+  400  vim kill
+  401  vim file_size.c 
+  402  ls
+  403  man printf > print
+  404  vim file_size.c 
+  405  gcc file_size.c 
+  406  ./a.out 
+  407  vim file_size.c 
+  408  mv file_size.c ../network_ing/illegal_network/
+  409  ssh ganga@172.16.5.227
+  410  ls
+  411  cd ../network_ing/
+  412  ls
+  413  cd illegal_network/
+  414  ls
+  415  vim f_b.c 
+  416  gcc f_b.c 
+  417  ./a.out 
+  418  vim kille
+  419  man fprintf
+  420  vim kille
+  421  vim f_b.c 
+  422  gcc f_b.c 
+  423  ./a.out 
+  424  vim kille
+  425  vim f_b.c 
+  426  gcc f_b.c 
+  427  ./a.out 
+  428  vim f_b.c 
+  429  rm killer
+  430  gcc f_b.c 
+  431  ./a.out 
+  432  vim killer 
+  433  rm killer
+  434  rm kille
+  435  ls
+  436  vim pr
+  437  vim f_b.c 
+  438  gcc f_b.c 
+  439  ./a.out 
+  440  ls -lrrt
+  441  vim killer
+  442  vim f_b.c 
+  443  rm pr
+  444  ./a.out 
+  445  gcc f_b.c 
+  446  ./a.out 
+  447  vim pr
+  448  vim killer 
+  449  man fpintf > killed
+  450  man fprintf > killer
+  451  gcc f_b.c 
+  452  ./a.out 
+  453  vim pr
+  454  vim f_b.c 
+  455  rm k
+  456  ./a.out 
+  457  vim k
+  458  vim f_b.c 
+  459  ls -lrrt
+  460  vim f_b.c 
+  461  gcc f_b.c 
+  462  ./a.out 
+  463  man fprintf > killer
+  464  ls -lrt
+  465  rm k
+  466  ./a.out 
+  467  ls
+  468  ls -lrt
+  469  ./data 
+  470  ls
+  471  vim killer
+  472  rm killer
+  473  vim kille
+  474  vim killer
+  475  la
+  476  rm *swp
+  477  rm *.swp
+  478  rm .*.swp
+  479  vim killer
+  480  vim f_b.c 
+  481  rm k
+  482  gcc f_b.c 
+  483  ./a.out 
+  484  vim k
+  485  rm k
+  486  vim f
+  487  vim f_b.c 
+  488  ls
+  489  cd ../../task_ment/
+  490  ls
+  491  vim file_segmentation.c 
+  492  gcc file_segmentation.c 
+  493  gcc file_segmentation.c -pthread -lrt
+  494  ./kill
+  495  ./killf 
+  496  killf
+  497  integer_validation 
+  498  sh
+  499  su
+  500  .
+  501  cd journeY/
+  502  ls
+  503  locate bashrc_backup
+  504  locate .bashrc_backup
+  505  locate .bashrc_*
+  506  cd network_ing/
+  507  cd ll
+  508  cd illegal_network/
+  509  history > kock
